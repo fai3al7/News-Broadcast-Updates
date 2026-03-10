@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "NewsBroadcast",
+    "slug": "newsbroadcast",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "permissions": [
+      "CAMERA",
+      "MEDIA_LIBRARY"
+    ],
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mik07.newsbroadcast"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.mik07.newsbroadcast"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "df4076d3-1dd6-4fc1-a20d-ae957d65f2dc"
+      }
+    },
+    "owner": "mik07",
+    "updates": {
+      "url": "https://u.expo.dev/df4076d3-1dd6-4fc1-a20d-ae957d65f2dc"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    }
+  }
+}

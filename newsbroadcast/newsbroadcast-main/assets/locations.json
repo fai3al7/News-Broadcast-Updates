@@ -1,0 +1,4837 @@
+[
+  {
+    "Name": "Aaliwala",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Abba khel",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Abbasian Wala",
+    "Area_Type": "Village",
+    "District_City": "Bhakkar"
+  },
+  {
+    "Name": "Abbottabad",
+    "Area_Type": "City",
+    "District_City": "Abbottabad"
+  },
+  {
+    "Name": "Abdul Hakeem",
+    "Area_Type": "City",
+    "District_City": "Khanewal"
+  },
+  {
+    "Name": "Achh",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Adamke",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Addepur",
+    "Area_Type": "Village",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Addowal",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Adhi Kot",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Adiala",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Adrana",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Agra",
+    "Area_Type": "Town",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Ahla",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Ahmadabad",
+    "Area_Type": "Town",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Ahmed Nager Chatha",
+    "Area_Type": "Town",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Ahmedabad",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Ahmedpur East",
+    "Area_Type": "City",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Ahmedpur Sial",
+    "Area_Type": "City",
+    "District_City": "Jhang"
+  },
+  {
+    "Name": "Aima Bari",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Ajjowal",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Ajnala",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Akhori",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Alamgarh",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Ali Pur Chatta",
+    "Area_Type": "Town",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Aliabad",
+    "Area_Type": "City",
+    "District_City": "Hunza"
+  },
+  {
+    "Name": "Aligarh",
+    "Area_Type": "Town",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Alipur Chatha",
+    "Area_Type": "City",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Alluwali",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Alpa Kalan",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Alpuri",
+    "Area_Type": "City",
+    "District_City": "Shangla"
+  },
+  {
+    "Name": "Ambar",
+    "Area_Type": "Village",
+    "District_City": "Swabi"
+  },
+  {
+    "Name": "Aminpur",
+    "Area_Type": "City",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Amra Kalan",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Anga",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Angadpura",
+    "Area_Type": "Village",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Angakiri",
+    "Area_Type": "Village",
+    "District_City": "Vehari"
+  },
+  {
+    "Name": "Arain Abad",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Arazi Hasnal",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Arbianwala",
+    "Area_Type": "Village",
+    "District_City": "Chiniot"
+  },
+  {
+    "Name": "Arifwala",
+    "Area_Type": "City",
+    "District_City": "Pakpattan"
+  },
+  {
+    "Name": "Arjun Singhwali",
+    "Area_Type": "Village",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Arra",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Arrar",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Asghari",
+    "Area_Type": "Town",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Atari",
+    "Area_Type": "Town",
+    "District_City": "Khanewal"
+  },
+  {
+    "Name": "Athara Hazari",
+    "Area_Type": "City",
+    "District_City": "Jhang"
+  },
+  {
+    "Name": "Athmuqam",
+    "Area_Type": "City",
+    "District_City": "Athmuqam"
+  },
+  {
+    "Name": "Atma Singh",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Attock",
+    "Area_Type": "City",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Awaran",
+    "Area_Type": "City",
+    "District_City": "Awaran"
+  },
+  {
+    "Name": "Baddo",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Baddoke Cheema",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Baddomalhi",
+    "Area_Type": "City",
+    "District_City": "Narowal"
+  },
+  {
+    "Name": "Badin",
+    "Area_Type": "City",
+    "District_City": "Badin"
+  },
+  {
+    "Name": "Badlot",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Badnian",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Bagh",
+    "Area_Type": "City",
+    "District_City": "Bagh"
+  },
+  {
+    "Name": "Baghiana Kalan",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Bagrianwala",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Bahadur Garh",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Bahadurpura",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Baharwal",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Bahawalnagar",
+    "Area_Type": "City",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Bahawalpur",
+    "Area_Type": "City",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Bairi",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Bait Bakhtiari",
+    "Area_Type": "Village",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Bajarwala",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Bakhar Bar",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Balianwala",
+    "Area_Type": "City",
+    "District_City": "Chiniot"
+  },
+  {
+    "Name": "Balkassar",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Balloki",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Balokassar",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Ban Hafiz Jee",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Bandial Janubi",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Banga",
+    "Area_Type": "Village",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Bangla Manthar",
+    "Area_Type": "Town",
+    "District_City": "Rahim Yar Khan"
+  },
+  {
+    "Name": "Bannu",
+    "Area_Type": "City",
+    "District_City": "Bannu"
+  },
+  {
+    "Name": "Bareela",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Barkhan",
+    "Area_Type": "City",
+    "District_City": "Barkhan"
+  },
+  {
+    "Name": "Barnali",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Baroo",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Barthi",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Basal",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Basharat",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Bashera",
+    "Area_Type": "Village",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Basia",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Basra",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Basti Babbar",
+    "Area_Type": "Town",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Basti Buzdar",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Basti Dhandlah",
+    "Area_Type": "Town",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Basti Fauja",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Basti Malana",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Basti Nari",
+    "Area_Type": "Town",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Bathou",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Bator",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Battagram",
+    "Area_Type": "City",
+    "District_City": "Battagram"
+  },
+  {
+    "Name": "Bazidpur",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Bazurgwal",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Begal",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Begowala",
+    "Area_Type": "Town",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Beharaj",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Beharwal Kalan",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Behlolpur",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Berianwali",
+    "Area_Type": "Village",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Bhaddar",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Bhagiwal",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Bhago",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Bhagot",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Bhagwal",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Bhakkar",
+    "Area_Type": "City",
+    "District_City": "Bhakkar"
+  },
+  {
+    "Name": "Bhalwal",
+    "Area_Type": "City",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Bhamba Kalan",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Bharpur",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Bhaun",
+    "Area_Type": "Town",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Bhedian Kalan",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Bheen",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Bhelowal",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Bhera",
+    "Area_Type": "City",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Bhikhi",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Bhikhi Khurd",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Bhilomar",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Bhindar Kalan",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Bhoanj",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Bhoe Asal",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Bhong",
+    "Area_Type": "Town",
+    "District_City": "Rahim Yar Khan"
+  },
+  {
+    "Name": "Bhoun",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Bidher",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Bido Bhatti",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Bijar",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Bilasur",
+    "Area_Type": "Town",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Bilochwala",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Bishan Daur",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Bismillapur",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Bohge",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Boken",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Boota",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Botala",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Buchal Kalan",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Bucheki",
+    "Area_Type": "City",
+    "District_City": "Nankana Sahib"
+  },
+  {
+    "Name": "Budhial",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Bunga Hayat",
+    "Area_Type": "Town",
+    "District_City": "Pakpattan"
+  },
+  {
+    "Name": "Burewala",
+    "Area_Type": "City",
+    "District_City": "Vehari"
+  },
+  {
+    "Name": "Burj Jeway Khan",
+    "Area_Type": "Town",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Chahal",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Chak 104 NB",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Chak 217 GB",
+    "Area_Type": "Village",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Chak 285 JB",
+    "Area_Type": "Village",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Chak 3",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Chak 38 3R",
+    "Area_Type": "Village",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Chak 40 GB",
+    "Area_Type": "Village",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Chak 44/12.L",
+    "Area_Type": "Village",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Chak 571/EB",
+    "Area_Type": "Village",
+    "District_City": "Vehari"
+  },
+  {
+    "Name": "Chak 667/8 GB",
+    "Area_Type": "Village",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Chak 720 GB",
+    "Area_Type": "Village",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Chak Fourteen MB",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Chak Jamal",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Chak Jani",
+    "Area_Type": "Town",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Chak Khasa",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Chak Malook",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Chak Manju",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Chak No. 69/EB Ugroo",
+    "Area_Type": "Village",
+    "District_City": "Pakpattan"
+  },
+  {
+    "Name": "Chak No.21/MB",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Chak Shadi",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Chak Umra",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Chak no 7/p",
+    "Area_Type": "Village",
+    "District_City": "Rahim Yar Khan"
+  },
+  {
+    "Name": "Chakbasawa",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Chakchohdu village",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Chaklala",
+    "Area_Type": "Town",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Chakora",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Chakori Bhalowal",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Chakori Sher Ghazi",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Chakri Rajgan",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Chakwal",
+    "Area_Type": "City",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Chaman",
+    "Area_Type": "City",
+    "District_City": "Killa Abdullah"
+  },
+  {
+    "Name": "Chanda Singh Wala",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Chandarkey Rajputan",
+    "Area_Type": "Village",
+    "District_City": "Narowal"
+  },
+  {
+    "Name": "Changa Bangial",
+    "Area_Type": "Town",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Changa Manga",
+    "Area_Type": "City",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Chap Sandi",
+    "Area_Type": "Village",
+    "District_City": "Bhakkar"
+  },
+  {
+    "Name": "Chapri",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Charat Singhwala",
+    "Area_Type": "Village",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Charsadda",
+    "Area_Type": "City",
+    "District_City": "Charsadda"
+  },
+  {
+    "Name": "Chathian Wala",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Chattal",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Chawinda",
+    "Area_Type": "Town",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Chechian",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Chhidru",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Chhimber",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Chhimmon",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Chhokar Kalan",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Chhowni Sulehrian",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Chicha",
+    "Area_Type": "Village",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Chichawatni",
+    "Area_Type": "City",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Chilas",
+    "Area_Type": "City",
+    "District_City": "Gilgit-Baltistan"
+  },
+  {
+    "Name": "Chillianwala",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Chiniot",
+    "Area_Type": "City",
+    "District_City": "Chiniot"
+  },
+  {
+    "Name": "Chishtian",
+    "Area_Type": "City",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Chitral",
+    "Area_Type": "City",
+    "District_City": "Chitral"
+  },
+  {
+    "Name": "Choa Ganj Ali Shah",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Choa Saidan Shah",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Choa Saidanshah",
+    "Area_Type": "Town",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Chopala",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Choran",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Chotala",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Choti Zerine",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Chotibala",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Chountra",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Chowk Azam",
+    "Area_Type": "City",
+    "District_City": "Layyah"
+  },
+  {
+    "Name": "Chunian",
+    "Area_Type": "City",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Churatta",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Dab",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dabb Balouchan",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Dabri",
+    "Area_Type": "Village",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Dadhocha",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Dadu",
+    "Area_Type": "City",
+    "District_City": "Buner"
+  },
+  {
+    "Name": "Dadwala",
+    "Area_Type": "Town",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Daftuh",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Daggar",
+    "Area_Type": "District_Unit",
+    "District_City": "Buner"
+  },
+  {
+    "Name": "Daharowal",
+    "Area_Type": "Village",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Dainyor",
+    "Area_Type": "District_Unit",
+    "District_City": "Gilgit-Baltistan"
+  },
+  {
+    "Name": "Daiwal",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Dajal",
+    "Area_Type": "Town",
+    "District_City": "Rajanpur"
+  },
+  {
+    "Name": "Dakhali",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Dalbandin",
+    "Area_Type": "City",
+    "District_City": "Chaghi"
+  },
+  {
+    "Name": "Dallowali",
+    "Area_Type": "Town",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Dalwal",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dandot",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dandot RS",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Darapur",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Dargahi Shah",
+    "Area_Type": "Village",
+    "District_City": "Jhang"
+  },
+  {
+    "Name": "Darkhast Jamal Khan",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Darya Khan",
+    "Area_Type": "Town",
+    "District_City": "Bhakkar"
+  },
+  {
+    "Name": "Daska",
+    "Area_Type": "City",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Dasu",
+    "Area_Type": "City",
+    "District_City": "Upper Kohistan"
+  },
+  {
+    "Name": "Dasuha",
+    "Area_Type": "Village",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Daud Khel",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Daulatpur",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Daurdad",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Davispur",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Deo Sial",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Deona Mandi",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Dera Allahyar",
+    "Area_Type": "City",
+    "District_City": "Jaffarabad"
+  },
+  {
+    "Name": "Dera Bugti",
+    "Area_Type": "District_Unit",
+    "District_City": "Dera Bugti"
+  },
+  {
+    "Name": "Dera Ghazi Khan",
+    "Area_Type": "City",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Dera Ismail Khan",
+    "Area_Type": "City",
+    "District_City": "Dera Ismail Khan"
+  },
+  {
+    "Name": "Dera Murad Jamali",
+    "Area_Type": "City",
+    "District_City": "Nasirabad"
+  },
+  {
+    "Name": "Devi",
+    "Area_Type": "Town",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Dhab Kalan",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dhab Pari",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dhainke",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Dhakkar",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Dhalla",
+    "Area_Type": "Town",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Dhallewali",
+    "Area_Type": "Town",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Dhamiak",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Dhamial",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Dhangri",
+    "Area_Type": "Village",
+    "District_City": "Mirpur"
+  },
+  {
+    "Name": "Dhanyala",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Dhapai",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Dhari Rai Ditta",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Dharyala Jalap",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Dhaular",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dher Umid Ali Shah",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Dhingana",
+    "Area_Type": "Village",
+    "District_City": "Bhakkar"
+  },
+  {
+    "Name": "Dhok Darbal",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dhok Gohar Shah",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Dhok Kasib",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Dhoke Agri",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dholan Hithar",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Dhoria",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Dhoular",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dhrabi",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dhudhi Phapra",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Dhudial",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dhulli",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dhunni",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Dhurnal",
+    "Area_Type": "Town",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dijkot",
+    "Area_Type": "City",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Dilawar",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Dina",
+    "Area_Type": "Town",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Dinga",
+    "Area_Type": "City",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Dipalpur",
+    "Area_Type": "City",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Dir",
+    "Area_Type": "Town",
+    "District_City": "Upper Dir"
+  },
+  {
+    "Name": "Doaba",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Domeli",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Dona Qutab Saru",
+    "Area_Type": "Village",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Dowal",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Drahma",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Dullah",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dullah Bhadera",
+    "Area_Type": "Village",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Dulmial",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dumman",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Dunga Bunga",
+    "Area_Type": "Town",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Eimen Abad",
+    "Area_Type": "Town",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Faisalabad",
+    "Area_Type": "City",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Faizpur",
+    "Area_Type": "Village",
+    "District_City": "Pakpattan"
+  },
+  {
+    "Name": "Faqirwali",
+    "Area_Type": "Town",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Faridkot",
+    "Area_Type": "Village",
+    "District_City": "Khanewal"
+  },
+  {
+    "Name": "Faridpur",
+    "Area_Type": "Village",
+    "District_City": "Narowal"
+  },
+  {
+    "Name": "Fateh Bhand",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Fateh Jang",
+    "Area_Type": "City",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Fateh Khan",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Fattiwala",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Fazal Katchh",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Ferozewala",
+    "Area_Type": "Town",
+    "District_City": "Sheikhupura"
+  },
+  {
+    "Name": "Firoza",
+    "Area_Type": "Town",
+    "District_City": "Rahim Yar Khan"
+  },
+  {
+    "Name": "Gadai",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Gahkuch",
+    "Area_Type": "City",
+    "District_City": "Gilgit-Baltistan"
+  },
+  {
+    "Name": "Gamoon wala",
+    "Area_Type": "Village",
+    "District_City": "Muzaffargarh"
+  },
+  {
+    "Name": "Ganehar",
+    "Area_Type": "Town",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Garh Mahal",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Garh Maharaja",
+    "Area_Type": "Town",
+    "District_City": "Jhang"
+  },
+  {
+    "Name": "Garh More",
+    "Area_Type": "Town",
+    "District_City": "Jhang"
+  },
+  {
+    "Name": "Gariwal",
+    "Area_Type": "Village",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Gerbla Syedan",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Ghakhar",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Gharibwal",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Ghator",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Ghaus Abad",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Ghotki",
+    "Area_Type": "City",
+    "District_City": "Ghotki"
+  },
+  {
+    "Name": "Ghurko",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Gilgit",
+    "Area_Type": "City",
+    "District_City": "Gilgit-Baltistan"
+  },
+  {
+    "Name": "Gobindsar",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Gochh",
+    "Area_Type": "City",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Gogera",
+    "Area_Type": "Town",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Gohar",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Gojra",
+    "Area_Type": "City",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Golewali",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Gondal",
+    "Area_Type": "Town",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Gop-e-Rah",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Goughabad",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Govindpura",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Grinkot",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Gujar Khan",
+    "Area_Type": "City",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Gujjar",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Gujranwala",
+    "Area_Type": "City",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Gujrat",
+    "Area_Type": "City",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Guliana",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Gulistan",
+    "Area_Type": "Town",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Gullen khel",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Gulzar",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Gulzar Khanwala",
+    "Area_Type": "Village",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Gulzarwala",
+    "Area_Type": "Village",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Gunja",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Gunjial Janubi",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Gwadar",
+    "Area_Type": "City",
+    "District_City": "Gwadar"
+  },
+  {
+    "Name": "Hadali",
+    "Area_Type": "Town",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Hadda",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Hafizabad",
+    "Area_Type": "City",
+    "District_City": "Hafizabad"
+  },
+  {
+    "Name": "Haji Chak",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Haji Ghazi",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Haji Muhammad",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Haji Shah",
+    "Area_Type": "Town",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Halla",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Hangu",
+    "Area_Type": "City",
+    "District_City": "Hangu"
+  },
+  {
+    "Name": "Harar khurd",
+    "Area_Type": "Village",
+    "District_City": "Narowal"
+  },
+  {
+    "Name": "Hari Singwala",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Hariawala",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Haripur",
+    "Area_Type": "City",
+    "District_City": "Haripur"
+  },
+  {
+    "Name": "Haroonabad",
+    "Area_Type": "City",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Harunabad",
+    "Area_Type": "Town",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Hasan Abdal",
+    "Area_Type": "City",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Hasilpur",
+    "Area_Type": "City",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Hassan Abdal",
+    "Area_Type": "City",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Hast Khewa",
+    "Area_Type": "Town",
+    "District_City": "Chiniot"
+  },
+  {
+    "Name": "Haveli Lakha",
+    "Area_Type": "City",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Haveli Majoka",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Hernoli",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Hero Sharqi",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Hothla",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Hujra Shah Muqeem",
+    "Area_Type": "Town",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Hujra Shah Muqim",
+    "Area_Type": "City",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Hyderabad",
+    "Area_Type": "City",
+    "District_City": "Hyderabad"
+  },
+  {
+    "Name": "Isakhel",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Islam Pur Lokari",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Islamabad",
+    "Area_Type": "City",
+    "District_City": "Islamabad"
+  },
+  {
+    "Name": "Jabairpur",
+    "Area_Type": "Town",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Jabbi Shah Dilawar",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Jabboana",
+    "Area_Type": "Town",
+    "District_City": "Jhang"
+  },
+  {
+    "Name": "Jabi",
+    "Area_Type": "Town",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Jaboka",
+    "Area_Type": "Town",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Jacobabad",
+    "Area_Type": "City",
+    "District_City": "Jacobabad"
+  },
+  {
+    "Name": "Jagdeo",
+    "Area_Type": "Village",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Jaguwala",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Jahanawala",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Jairo Ratial",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Jaisak",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Jajial",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Jajjal",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Jakhar Imam Shah",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Jalalpur Bhattian",
+    "Area_Type": "City",
+    "District_City": "Hafizabad"
+  },
+  {
+    "Name": "Jalalpur Jattan",
+    "Area_Type": "City",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Jaluwali",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Jamali Noorpur",
+    "Area_Type": "Town",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Jamber Khurd",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Jamesabad",
+    "Area_Type": "Town",
+    "District_City": "Khanewal"
+  },
+  {
+    "Name": "Jampur",
+    "Area_Type": "City",
+    "District_City": "Rajanpur"
+  },
+  {
+    "Name": "Jamsher Kalan",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Jamsher Khurd",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Jamshoro",
+    "Area_Type": "City",
+    "District_City": "Jamshoro"
+  },
+  {
+    "Name": "Jand",
+    "Area_Type": "Town",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Jand Khanzada",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Jand Najjar",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Jandiala Sher Khan",
+    "Area_Type": "Town",
+    "District_City": "Sheikhupura"
+  },
+  {
+    "Name": "Janewali",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Janhatal",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Janiwala",
+    "Area_Type": "Town",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Jaranwala",
+    "Area_Type": "City",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Jarmot Kalan",
+    "Area_Type": "Town",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Jassial",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Jaswal",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Jathekey",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Jauharabad",
+    "Area_Type": "City",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Jauharabad-I",
+    "Area_Type": "Town",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Jauharabad-II",
+    "Area_Type": "Town",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Jaura",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Jaura Kalan",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Jayya",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Jhang",
+    "Area_Type": "City",
+    "District_City": "Jhang"
+  },
+  {
+    "Name": "Jharkal",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Jhatla",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Jhelum",
+    "Area_Type": "City",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Jhoke Uttra",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Kabirwala",
+    "Area_Type": "Town",
+    "District_City": "Khanewal"
+  },
+  {
+    "Name": "Kadhar",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Kahuta",
+    "Area_Type": "Town",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Kakowal",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Kala Gujran",
+    "Area_Type": "Town",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Kalabagh",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Kalat",
+    "Area_Type": "Town",
+    "District_City": "Kalat"
+  },
+  {
+    "Name": "Kaleke",
+    "Area_Type": "Village",
+    "District_City": "Hafizabad"
+  },
+  {
+    "Name": "Kallar Syedan",
+    "Area_Type": "City",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Kallur",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Kallurkot",
+    "Area_Type": "Town",
+    "District_City": "Bhakkar"
+  },
+  {
+    "Name": "Kalsian",
+    "Area_Type": "Village",
+    "District_City": "Sheikhupura"
+  },
+  {
+    "Name": "Kalsian Bhattian",
+    "Area_Type": "Village",
+    "District_City": "Sheikhupura"
+  },
+  {
+    "Name": "Kalyan",
+    "Area_Type": "Village",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Kamalia",
+    "Area_Type": "City",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Kaman",
+    "Area_Type": "Town",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Kamar Mushani",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Kamar Mushani Pakka",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Kandhkot",
+    "Area_Type": "City",
+    "District_City": "Kashmore"
+  },
+  {
+    "Name": "Kandwal",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Kanganpur",
+    "Area_Type": "City",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Kante pind",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Kantrila",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Kantrili",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Kapurpur",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Karachi",
+    "Area_Type": "City",
+    "District_City": "Karachi"
+  },
+  {
+    "Name": "Karak",
+    "Area_Type": "City",
+    "District_City": "Karak"
+  },
+  {
+    "Name": "Karnana",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Karor Lal Esan",
+    "Area_Type": "City",
+    "District_City": "Layyah"
+  },
+  {
+    "Name": "Karsal",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Karuli",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Karyala",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Kasan Wala",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Kaslian",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Kasupur Dulhar",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Kasur",
+    "Area_Type": "City",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Kathala Chenab",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Kathrian",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Kattowal",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Khabaki",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Khaglan Wala",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Khai Hithar",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Khai Khurd",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Khairo",
+    "Area_Type": "Town",
+    "District_City": "Jacobabad"
+  },
+  {
+    "Name": "Khairpur",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Khairpur Tamiwali",
+    "Area_Type": "City",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Khairpur village",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Khakhi",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Khan Muhammad Wala",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Khandowa",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Khanewal",
+    "Area_Type": "City",
+    "District_City": "Khanewal"
+  },
+  {
+    "Name": "Khanpur",
+    "Area_Type": "City",
+    "District_City": "Rahim Yar Khan"
+  },
+  {
+    "Name": "Khanqah Sharif",
+    "Area_Type": "City",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Khar",
+    "Area_Type": "Town",
+    "District_City": "Muzaffargarh"
+  },
+  {
+    "Name": "Kharan",
+    "Area_Type": "City",
+    "District_City": "Kharan"
+  },
+  {
+    "Name": "Kharian",
+    "Area_Type": "City",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Khasala Kalan",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Khasala Khurd",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Khatwan",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Khewa",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Khewa Shareef",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Khinger Kalan",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Khinger Khurd",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Khokhar zer",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Khola At Khanqah Sirajia",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Khoora",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Khosa",
+    "Area_Type": "Town",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Khotian",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Khudian",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Khunda More",
+    "Area_Type": "Village",
+    "District_City": "Nankana Sahib"
+  },
+  {
+    "Name": "Khushab",
+    "Area_Type": "City",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Khushipur",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Khuzdar",
+    "Area_Type": "City",
+    "District_City": "Khuzdar"
+  },
+  {
+    "Name": "Kirtowal",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Kohali",
+    "Area_Type": "Village",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Kohat",
+    "Area_Type": "City",
+    "District_City": "Kohat"
+  },
+  {
+    "Name": "Kohlian",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Kohlu",
+    "Area_Type": "District_Unit",
+    "District_City": "Kohlu"
+  },
+  {
+    "Name": "Kora Punjab",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Kot Abbas Pura",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Kot Addu",
+    "Area_Type": "City",
+    "District_City": "Muzaffargarh"
+  },
+  {
+    "Name": "Kot Chandi",
+    "Area_Type": "Village",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Kot Chandna",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Kot Choudrain",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Kot Gullah",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Kot Guraya",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Kot Haibat",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Kot Hasan Khan",
+    "Area_Type": "Village",
+    "District_City": "Hafizabad"
+  },
+  {
+    "Name": "Kot Isa Shah",
+    "Area_Type": "Village",
+    "District_City": "Jhang"
+  },
+  {
+    "Name": "Kot Ismail",
+    "Area_Type": "Village",
+    "District_City": "Chiniot"
+  },
+  {
+    "Name": "Kot Karam Khan",
+    "Area_Type": "Town",
+    "District_City": "Rahim Yar Khan"
+  },
+  {
+    "Name": "Kot Mubarak",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Kot Qaisrani",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Kot Qazi",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Kot Radha Kishan",
+    "Area_Type": "City",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Kot Rajput",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Kot Sarang",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Kot Waris",
+    "Area_Type": "Village",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Kotehra",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Kotha",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Kotha Gujjran",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Kotla Arab Ali Khan",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Kotla Faqir",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Kotla Musa Khan",
+    "Area_Type": "Village",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Kotla Sarang Khan",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Kotli",
+    "Area_Type": "City",
+    "District_City": "Kotli"
+  },
+  {
+    "Name": "Kotli Loharan East",
+    "Area_Type": "Town",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Kotli Rai Abubakar",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Kufri",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Kulachi",
+    "Area_Type": "City",
+    "District_City": "Dera Ismail Khan"
+  },
+  {
+    "Name": "Kull",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Kumarwala",
+    "Area_Type": "City",
+    "District_City": "Multan"
+  },
+  {
+    "Name": "Kund",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Kundian",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Kunjah",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Kurree",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Kuthiala Sheikhan",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Kutruwal",
+    "Area_Type": "Town",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Ladian",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Lahore",
+    "Area_Type": "City",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Lakhani",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Lakki Marwat",
+    "Area_Type": "City",
+    "District_City": "Lakki Marwat"
+  },
+  {
+    "Name": "Lala Musa",
+    "Area_Type": "City",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Lalamusa",
+    "Area_Type": "City",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Laleka",
+    "Area_Type": "Town",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Lalewala",
+    "Area_Type": "Village",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Lalian",
+    "Area_Type": "City",
+    "District_City": "Chiniot"
+  },
+  {
+    "Name": "Lapiwala",
+    "Area_Type": "Town",
+    "District_City": "Bhakkar"
+  },
+  {
+    "Name": "Larkana",
+    "Area_Type": "City",
+    "District_City": "Larkana"
+  },
+  {
+    "Name": "Lawrencepur",
+    "Area_Type": "Town",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Layyah",
+    "Area_Type": "City",
+    "District_City": "Layyah"
+  },
+  {
+    "Name": "Lehna Singhwala",
+    "Area_Type": "Village",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Lehr Sultanpur",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Lehri",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Leti",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Liaqauatpur",
+    "Area_Type": "City",
+    "District_City": "Rahim Yar Khan"
+  },
+  {
+    "Name": "Lilla",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Lodhran",
+    "Area_Type": "City",
+    "District_City": "Lodhran"
+  },
+  {
+    "Name": "Lolianwali",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Longo",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Lopoke",
+    "Area_Type": "Village",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Loralai",
+    "Area_Type": "District_Unit",
+    "District_City": "Loralai"
+  },
+  {
+    "Name": "Lumbri",
+    "Area_Type": "Village",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Luni",
+    "Area_Type": "Village",
+    "District_City": "Sibi"
+  },
+  {
+    "Name": "Mabboki",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Madu Kalas",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Mahay Chattha",
+    "Area_Type": "Village",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Mahrawali",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Mahtaman",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Mailsi",
+    "Area_Type": "City",
+    "District_City": "Vehari"
+  },
+  {
+    "Name": "Makerwal",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Makhan Baila",
+    "Area_Type": "Village",
+    "District_City": "Muzaffargarh"
+  },
+  {
+    "Name": "Makwal Kalan",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Mal Awan",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Malakand",
+    "Area_Type": "District_Unit",
+    "District_City": "Malakand"
+  },
+  {
+    "Name": "Malakwal",
+    "Area_Type": "City",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Malana Dagar",
+    "Area_Type": "Village",
+    "District_City": "Bhakkar"
+  },
+  {
+    "Name": "Mali Singh",
+    "Area_Type": "Village",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Malikpur",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Malikwal",
+    "Area_Type": "City",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Malka",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Mallu-Chhitt",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Malot",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Mamoori",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Mana Ahmadani",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Manak",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Manakpur",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Mananwala",
+    "Area_Type": "City",
+    "District_City": "Sheikhupura"
+  },
+  {
+    "Name": "Mandeer",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Mandi Bahauddin",
+    "Area_Type": "City",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Mandranwala",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Mangat",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Mangewala",
+    "Area_Type": "Town",
+    "District_City": "Layyah"
+  },
+  {
+    "Name": "Manghrotha",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Manglia",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Mangrotha",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Mangtanwala",
+    "Area_Type": "Town",
+    "District_City": "Nankana Sahib"
+  },
+  {
+    "Name": "Mangwal",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Mansar",
+    "Area_Type": "Town",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Mansehra",
+    "Area_Type": "City",
+    "District_City": "Mansehra"
+  },
+  {
+    "Name": "Mansuwala",
+    "Area_Type": "Village",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Manuri",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Mardan",
+    "Area_Type": "City",
+    "District_City": "Mardan"
+  },
+  {
+    "Name": "Mardwal",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Mari",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Mari Shah Sakhira",
+    "Area_Type": "Town",
+    "District_City": "Jhang"
+  },
+  {
+    "Name": "Mari Waraichan",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Marot",
+    "Area_Type": "City",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Maruf",
+    "Area_Type": "Town",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Mastung",
+    "Area_Type": "Town",
+    "District_City": "Mastung"
+  },
+  {
+    "Name": "Matiari",
+    "Area_Type": "City",
+    "District_City": "Matiari"
+  },
+  {
+    "Name": "Matore",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Matta",
+    "Area_Type": "Town",
+    "District_City": "Swat"
+  },
+  {
+    "Name": "Mauza Sulemaan",
+    "Area_Type": "Village",
+    "District_City": "Chiniot"
+  },
+  {
+    "Name": "Mehmood Kot",
+    "Area_Type": "Town",
+    "District_City": "Multan"
+  },
+  {
+    "Name": "Mehraywala",
+    "Area_Type": "Town",
+    "District_City": "Rajanpur"
+  },
+  {
+    "Name": "Mera Jaffar",
+    "Area_Type": "Village",
+    "District_City": "Islamabad"
+  },
+  {
+    "Name": "Mian Channu",
+    "Area_Type": "City",
+    "District_City": "Khanewal"
+  },
+  {
+    "Name": "Mian Channun",
+    "Area_Type": "City",
+    "District_City": "Khanewal"
+  },
+  {
+    "Name": "Miana Chak",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Miani",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Mianwal",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Mianwala Kariya",
+    "Area_Type": "Town",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Mianwali",
+    "Area_Type": "City",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Mianwali Bangla",
+    "Area_Type": "City",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Minchinabad",
+    "Area_Type": "City",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Mingora",
+    "Area_Type": "City",
+    "District_City": "Swat"
+  },
+  {
+    "Name": "Miranpur",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Mirbaz",
+    "Area_Type": "Village",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Mirpur",
+    "Area_Type": "City",
+    "District_City": "Mirpur"
+  },
+  {
+    "Name": "Mirpur Khas",
+    "Area_Type": "City",
+    "District_City": "Mirpur Khas"
+  },
+  {
+    "Name": "Mirza",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Mirza Tahir",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Mithankot",
+    "Area_Type": "City",
+    "District_City": "Rajanpur"
+  },
+  {
+    "Name": "Mochh",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Mohra Awan",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Mohra Noori",
+    "Area_Type": "Town",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Momanpur",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Mona Punjab",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Monan",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Mong",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Morejhangi",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Motian",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Mudke Dhariwal",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Mughalabad",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Muhammadgarh",
+    "Area_Type": "Town",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Muhib Ali Uttar",
+    "Area_Type": "Town",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Mulhal Mughlan",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Mullanwali",
+    "Area_Type": "Town",
+    "District_City": "Bhakkar"
+  },
+  {
+    "Name": "Multan",
+    "Area_Type": "City",
+    "District_City": "Multan"
+  },
+  {
+    "Name": "Multan Khurd",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Mulwal",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Mumbhar",
+    "Area_Type": "Village",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Munara",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Mundayki",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Murala",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Mureed",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Muridke",
+    "Area_Type": "City",
+    "District_City": "Sheikhupura"
+  },
+  {
+    "Name": "Musa",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Musakhel Bazar",
+    "Area_Type": "Town",
+    "District_City": "Musakhel"
+  },
+  {
+    "Name": "Mustafaabad",
+    "Area_Type": "Village",
+    "District_City": "Bhakkar"
+  },
+  {
+    "Name": "Mutafariq Chahan",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Muzafarpur Janubi",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Muzafarpur Shumali",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Muzaffarabad",
+    "Area_Type": "City",
+    "District_City": "Azad Kashmir"
+  },
+  {
+    "Name": "Muzaffargarh",
+    "Area_Type": "City",
+    "District_City": "Muzaffargarh"
+  },
+  {
+    "Name": "Nachindi",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Nagial",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Nain",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Nainwal Khalsa",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Najabat",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Najwaniwala",
+    "Area_Type": "Town",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Naka Kahoot",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Nakka Kalan",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Nakka Khurd",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Nali Shumali",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Namal",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Nanaksar",
+    "Area_Type": "Village",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Nandwal",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Nankana Sahib",
+    "Area_Type": "City",
+    "District_City": "Nankana Sahib"
+  },
+  {
+    "Name": "Nara",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Nara Matore",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Narag",
+    "Area_Type": "Town",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Narang Mandi",
+    "Area_Type": "City",
+    "District_City": "Sheikhupura"
+  },
+  {
+    "Name": "Nari",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Nari Shumali",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Narowal",
+    "Area_Type": "City",
+    "District_City": "Narowal"
+  },
+  {
+    "Name": "Nartopa",
+    "Area_Type": "City",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Naseer Pur Kalan",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Nathoki",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Naushahro Firoz",
+    "Area_Type": "City",
+    "District_City": "Naushahro Firoz"
+  },
+  {
+    "Name": "Naushera",
+    "Area_Type": "Town",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Nawabshah",
+    "Area_Type": "City",
+    "District_City": "Shaheed Benazirabad"
+  },
+  {
+    "Name": "Nawan",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Noonanwali",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Noor Mang",
+    "Area_Type": "Village",
+    "District_City": "Abbottabad"
+  },
+  {
+    "Name": "Noor Pur Sayedan",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Noorpur",
+    "Area_Type": "City",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Notak",
+    "Area_Type": "Town",
+    "District_City": "Bhakkar"
+  },
+  {
+    "Name": "Notak Bhakkar",
+    "Area_Type": "Town",
+    "District_City": "Bhakkar"
+  },
+  {
+    "Name": "Nowshera",
+    "Area_Type": "City",
+    "District_City": "Nowshera"
+  },
+  {
+    "Name": "Odherwal",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Okara",
+    "Area_Type": "City",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Okhali Mohlah",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Orara",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Padshahan",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Paharewala",
+    "Area_Type": "Village",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Pahrianwali",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Paigah",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Paikhel",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Pail Bane Khan",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Paira",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Pakpattan",
+    "Area_Type": "City",
+    "District_City": "Pakpattan"
+  },
+  {
+    "Name": "Palia",
+    "Area_Type": "Village",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Pandori",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Panjan Kissana",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Panjar",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Panjgur",
+    "Area_Type": "Town",
+    "District_City": "Panjgur"
+  },
+  {
+    "Name": "Panwan",
+    "Area_Type": "Village",
+    "District_City": "Nankana Sahib"
+  },
+  {
+    "Name": "Parachinar",
+    "Area_Type": "Town",
+    "District_City": "Kurram"
+  },
+  {
+    "Name": "Pasrur",
+    "Area_Type": "City",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Patalian",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Pathan Walla",
+    "Area_Type": "Village",
+    "District_City": "Lodhran"
+  },
+  {
+    "Name": "Pattoki",
+    "Area_Type": "City",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Pelowaince",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Peshawar",
+    "Area_Type": "City",
+    "District_City": "Peshawar"
+  },
+  {
+    "Name": "Phadiara",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Phool Nagar",
+    "Area_Type": "City",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Phularwan",
+    "Area_Type": "City",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Phulliani",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Phulrey Sydan",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Pial Kalan",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Pichnand",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Piera Fatehial",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Pind Brahmanan",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Pind Dadan Khan",
+    "Area_Type": "City",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Pind Matay Khan",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Pind Rahim Shah",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Pind Ranjha",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Pindi Bahauddin",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Pindi Bhattian",
+    "Area_Type": "City",
+    "District_City": "Hafizabad"
+  },
+  {
+    "Name": "Pindi Saidpur",
+    "Area_Type": "Town",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Pindsultani",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Pinjawana",
+    "Area_Type": "City",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Pipli Jhelum",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Pir Adil",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Pir Jand",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Pir Mahal",
+    "Area_Type": "City",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Pirwal",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Pishin",
+    "Area_Type": "City",
+    "District_City": "Pishin"
+  },
+  {
+    "Name": "Pollard Kot",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Puna",
+    "Area_Type": "Village",
+    "District_City": "Mirpur"
+  },
+  {
+    "Name": "Purana Bhalwal",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Qadirabad",
+    "Area_Type": "City",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Qaim Bharwana",
+    "Area_Type": "Town",
+    "District_City": "Jhang"
+  },
+  {
+    "Name": "Qaimpur",
+    "Area_Type": "City",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Qasba Gujrat",
+    "Area_Type": "Town",
+    "District_City": "Muzaffargarh"
+  },
+  {
+    "Name": "Qasimabad",
+    "Area_Type": "Town",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Qasimka",
+    "Area_Type": "Village",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Qila Mihan Singh",
+    "Area_Type": "Town",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Qila Saifullah",
+    "Area_Type": "City",
+    "District_City": "Qila Saifullah"
+  },
+  {
+    "Name": "Qila Sobha Singh",
+    "Area_Type": "Town",
+    "District_City": "Narowal"
+  },
+  {
+    "Name": "Qila Sura Singh",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Quetta",
+    "Area_Type": "City",
+    "District_City": "Quetta"
+  },
+  {
+    "Name": "Qureshian",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Rabwah",
+    "Area_Type": "City",
+    "District_City": "Chiniot"
+  },
+  {
+    "Name": "Rafiq Villas",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Rahdari",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Rahim Yar Khan",
+    "Area_Type": "City",
+    "District_City": "Rahim Yar Khan"
+  },
+  {
+    "Name": "Rahna",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Raisanwala",
+    "Area_Type": "Village",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Raiwind",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Raja",
+    "Area_Type": "Village",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Raja Jang",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Rajanpur",
+    "Area_Type": "City",
+    "District_City": "Rajanpur"
+  },
+  {
+    "Name": "Rajar",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Rajowal Nau",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Ramin",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Rampur",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Rana Colony",
+    "Area_Type": "Town",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Randian",
+    "Area_Type": "Town",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Rangewala",
+    "Area_Type": "Village",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Rangpur",
+    "Area_Type": "Town",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Ranjha",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Ranjhe",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Ransial",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Rashiana",
+    "Area_Type": "Village",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Rasool Pur",
+    "Area_Type": "Village",
+    "District_City": "Rajanpur"
+  },
+  {
+    "Name": "Rasul",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Rathor",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Ratta",
+    "Area_Type": "Village",
+    "District_City": "Kotli"
+  },
+  {
+    "Name": "Ratta Matta",
+    "Area_Type": "Town",
+    "District_City": "Jhang"
+  },
+  {
+    "Name": "Rawalakot",
+    "Area_Type": "City",
+    "District_City": "Poonch"
+  },
+  {
+    "Name": "Rawalpindi",
+    "Area_Type": "City",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Rehmanabad",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Renala Khurd",
+    "Area_Type": "City",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Risalapur",
+    "Area_Type": "Town",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Risalpur",
+    "Area_Type": "City",
+    "District_City": "Nowshera"
+  },
+  {
+    "Name": "Roda",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Rodasar",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Rodu Sultan",
+    "Area_Type": "Town",
+    "District_City": "Jhang"
+  },
+  {
+    "Name": "Rohilanwali",
+    "Area_Type": "Town",
+    "District_City": "Muzaffargarh"
+  },
+  {
+    "Name": "Rojhan",
+    "Area_Type": "City",
+    "District_City": "Rajanpur"
+  },
+  {
+    "Name": "Rokhri",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Roulia",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Rupal",
+    "Area_Type": "Village",
+    "District_City": "Astore"
+  },
+  {
+    "Name": "Rupwal",
+    "Area_Type": "Town",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Rurala Road",
+    "Area_Type": "Town",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Rurki",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Sabour",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Sadda",
+    "Area_Type": "Town",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Saddiqabad",
+    "Area_Type": "City",
+    "District_City": "Rahim Yar Khan"
+  },
+  {
+    "Name": "Sadhoke",
+    "Area_Type": "City",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Sadiqabad",
+    "Area_Type": "City",
+    "District_City": "Rahim Yar Khan"
+  },
+  {
+    "Name": "Safdarabad",
+    "Area_Type": "City",
+    "District_City": "Sheikhupura"
+  },
+  {
+    "Name": "Saghar",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Sahgalabad",
+    "Area_Type": "Town",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Sahibnagar",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Sahiwal",
+    "Area_Type": "City",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Sahna",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Saidu Sharif",
+    "Area_Type": "City",
+    "District_City": "Swat"
+  },
+  {
+    "Name": "Sambrial",
+    "Area_Type": "Town",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Samina",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Samote",
+    "Area_Type": "Town",
+    "District_City": "Kallar Syedan"
+  },
+  {
+    "Name": "Samundri",
+    "Area_Type": "City",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Samunpur",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Sandhilianwali",
+    "Area_Type": "Town",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Sandral",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Sanghar",
+    "Area_Type": "City",
+    "District_City": "Sanghar"
+  },
+  {
+    "Name": "Sanghoi",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Sangla Hill",
+    "Area_Type": "City",
+    "District_City": "Nankana Sahib"
+  },
+  {
+    "Name": "Saral",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Sargodha",
+    "Area_Type": "City",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Saroba Punjab",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Saroi",
+    "Area_Type": "Village",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Saroke",
+    "Area_Type": "Town",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Satgarah Okara",
+    "Area_Type": "Town",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Satghara",
+    "Area_Type": "Town",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Satiana",
+    "Area_Type": "Town",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Sattoke",
+    "Area_Type": "Town",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Sauwal",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Sawans-Mianwali",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Sawer",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Sehjra",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Sehna",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Sehwan Sharif",
+    "Area_Type": "City",
+    "District_City": "Jamshoro"
+  },
+  {
+    "Name": "Shadia",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Shah Nikdur",
+    "Area_Type": "Town",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Shah Purah",
+    "Area_Type": "Village",
+    "District_City": "Nankana Sahib"
+  },
+  {
+    "Name": "Shah Rukan e Alam",
+    "Area_Type": "Town",
+    "District_City": "Multan"
+  },
+  {
+    "Name": "Shah Sadar Din",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Shahdad Kot",
+    "Area_Type": "Town",
+    "District_City": "Shahdad Kot"
+  },
+  {
+    "Name": "Shaheedanwali",
+    "Area_Type": "Village",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Shahpur",
+    "Area_Type": "City",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Shakargarh",
+    "Area_Type": "City",
+    "District_City": "Narowal"
+  },
+  {
+    "Name": "Shamaspur",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Shamsabad",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Sharaqpur",
+    "Area_Type": "Town",
+    "District_City": "Sheikhupura"
+  },
+  {
+    "Name": "Sheikhupura",
+    "Area_Type": "City",
+    "District_City": "Sheikhupura"
+  },
+  {
+    "Name": "Shekhupura",
+    "Area_Type": "City",
+    "District_City": "Shekhupura"
+  },
+  {
+    "Name": "Sher Shah",
+    "Area_Type": "Town",
+    "District_City": "Multan"
+  },
+  {
+    "Name": "Sherewala",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Shikar pur",
+    "Area_Type": "Town",
+    "District_City": "Bhakkar"
+  },
+  {
+    "Name": "Shikarpur",
+    "Area_Type": "City",
+    "District_City": "Shikarpur"
+  },
+  {
+    "Name": "Shinka",
+    "Area_Type": "Village",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Shorkot",
+    "Area_Type": "City",
+    "District_City": "Jhang"
+  },
+  {
+    "Name": "Shujabad",
+    "Area_Type": "City",
+    "District_City": "Multan"
+  },
+  {
+    "Name": "Sialkot",
+    "Area_Type": "City",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Sibi",
+    "Area_Type": "City",
+    "District_City": "Sibi"
+  },
+  {
+    "Name": "Sikandar Pura",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Sikaryali",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Sikhanwala",
+    "Area_Type": "Town",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Sillanwali",
+    "Area_Type": "Town",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Singh Khalsa",
+    "Area_Type": "Town",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Skardu",
+    "Area_Type": "City",
+    "District_City": "Gilgit-Baltistan"
+  },
+  {
+    "Name": "Sluice",
+    "Area_Type": "Village",
+    "District_City": "Okara"
+  },
+  {
+    "Name": "Sodhi Bala",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Sodhra",
+    "Area_Type": "Town",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Sodian Gujar",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Sohan",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Sohawa",
+    "Area_Type": "Town",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Sohianwala",
+    "Area_Type": "Village",
+    "District_City": "Layyah"
+  },
+  {
+    "Name": "Sokar",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Sui",
+    "Area_Type": "District_Unit",
+    "District_City": "Dera Bugti"
+  },
+  {
+    "Name": "Sujowali",
+    "Area_Type": "Village",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Sukhochak",
+    "Area_Type": "Town",
+    "District_City": "Narowal"
+  },
+  {
+    "Name": "Sukkur",
+    "Area_Type": "City",
+    "District_City": "Sukkur"
+  },
+  {
+    "Name": "Sultan Khel",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Sultanpur",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Surajpur",
+    "Area_Type": "Town",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Swabi",
+    "Area_Type": "City",
+    "District_City": "Swabi"
+  },
+  {
+    "Name": "Swans",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Talwandi",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Tandlianwala",
+    "Area_Type": "City",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Tando Allahyar",
+    "Area_Type": "City",
+    "District_City": "Tando Allahyar"
+  },
+  {
+    "Name": "Tando Muhammad Khan",
+    "Area_Type": "City",
+    "District_City": "Tando Muhammad Khan"
+  },
+  {
+    "Name": "Tangrian",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Tanikhel",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Tank",
+    "Area_Type": "City",
+    "District_City": "Tank"
+  },
+  {
+    "Name": "Tapyala",
+    "Area_Type": "Village",
+    "District_City": "Narowal"
+  },
+  {
+    "Name": "Taran Taran",
+    "Area_Type": "Village",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Targa",
+    "Area_Type": "Village",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Targarh",
+    "Area_Type": "Village",
+    "District_City": "Lahore"
+  },
+  {
+    "Name": "Tarnol",
+    "Area_Type": "Town",
+    "District_City": "Islamabad"
+  },
+  {
+    "Name": "Taunsa Sharif",
+    "Area_Type": "City",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Taxila",
+    "Area_Type": "City",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Tehi",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Tekgarh",
+    "Area_Type": "Village",
+    "District_City": "Faisalabad"
+  },
+  {
+    "Name": "Thakra",
+    "Area_Type": "Village",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Thamewali",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Thatha Shamsa",
+    "Area_Type": "Village",
+    "District_City": "Hafizabad"
+  },
+  {
+    "Name": "Thatha shamsa",
+    "Area_Type": "Village",
+    "District_City": "Hafizabad"
+  },
+  {
+    "Name": "Thatta",
+    "Area_Type": "Town",
+    "District_City": "Attock"
+  },
+  {
+    "Name": "Thatta Jhamb",
+    "Area_Type": "Village",
+    "District_City": "Chiniot"
+  },
+  {
+    "Name": "Thikrian",
+    "Area_Type": "Village",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Thoa Mehram Khan",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Thutha Rai Bahadar",
+    "Area_Type": "Town",
+    "District_City": "Gujrat"
+  },
+  {
+    "Name": "Tibba Mehrban Shah",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Tibbi Qaisrani",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Tilloker",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Timergara",
+    "Area_Type": "City",
+    "District_City": "Lower Dir"
+  },
+  {
+    "Name": "Tirathpur",
+    "Area_Type": "Town",
+    "District_City": "Sahiwal"
+  },
+  {
+    "Name": "Toba Qalandar Shah",
+    "Area_Type": "Town",
+    "District_City": "Bahawalnagar"
+  },
+  {
+    "Name": "Toba Tek Singh",
+    "Area_Type": "City",
+    "District_City": "Toba Tek Singh"
+  },
+  {
+    "Name": "Tobah",
+    "Area_Type": "Village",
+    "District_City": "Jhelum"
+  },
+  {
+    "Name": "Tola Bhangi Khel",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Trag",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Tuman Leghari",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Tuman Qaisrani",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Turbat",
+    "Area_Type": "City",
+    "District_City": "Kech"
+  },
+  {
+    "Name": "Uchalli",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Uguana",
+    "Area_Type": "Village",
+    "District_City": "Pakpattan"
+  },
+  {
+    "Name": "Umerkot",
+    "Area_Type": "City",
+    "District_City": "Umerkot"
+  },
+  {
+    "Name": "Usman Wala",
+    "Area_Type": "City",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Uthal",
+    "Area_Type": "City",
+    "District_City": "Lasbela"
+  },
+  {
+    "Name": "Utra Janubi",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Vanjari",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Vehari",
+    "Area_Type": "City",
+    "District_City": "Vehari"
+  },
+  {
+    "Name": "Vichvin Bala",
+    "Area_Type": "Town",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Wadala Sandhuan",
+    "Area_Type": "Town",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Wadore",
+    "Area_Type": "Town",
+    "District_City": "Dera Ghazi Khan"
+  },
+  {
+    "Name": "Wah Cantonment",
+    "Area_Type": "City",
+    "District_City": "Rawalpindi"
+  },
+  {
+    "Name": "Waheer",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Walana",
+    "Area_Type": "Village",
+    "District_City": "Rahim Yar Khan"
+  },
+  {
+    "Name": "Wan",
+    "Area_Type": "Village",
+    "District_City": "Sialkot"
+  },
+  {
+    "Name": "Wan Adhen",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Wan Khara",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Wan Radha Ram",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Wara Alam Shah",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Warburton",
+    "Area_Type": "Town",
+    "District_City": "Nankana Sahib"
+  },
+  {
+    "Name": "Warcha",
+    "Area_Type": "Village",
+    "District_City": "Khushab"
+  },
+  {
+    "Name": "Warwal",
+    "Area_Type": "Village",
+    "District_City": "Chakwal"
+  },
+  {
+    "Name": "Wasu",
+    "Area_Type": "Town",
+    "District_City": "Mandi Bahauddin"
+  },
+  {
+    "Name": "Watta Khel",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Wazirabad",
+    "Area_Type": "City",
+    "District_City": "Gujranwala"
+  },
+  {
+    "Name": "Yaru Khel",
+    "Area_Type": "Village",
+    "District_City": "Mianwali"
+  },
+  {
+    "Name": "Yazman",
+    "Area_Type": "City",
+    "District_City": "Bahawalpur"
+  },
+  {
+    "Name": "Zafarke",
+    "Area_Type": "Town",
+    "District_City": "Kasur"
+  },
+  {
+    "Name": "Zafarwal",
+    "Area_Type": "City",
+    "District_City": "Narowal"
+  },
+  {
+    "Name": "Zaffer Abad Noon",
+    "Area_Type": "Village",
+    "District_City": "Sargodha"
+  },
+  {
+    "Name": "Zahir Pir",
+    "Area_Type": "City",
+    "District_City": "Rahim Yar Khan"
+  },
+  {
+    "Name": "Zhob",
+    "Area_Type": "City",
+    "District_City": "Zhob"
+  },
+  {
+    "Name": "Ziarat",
+    "Area_Type": "City",
+    "District_City": "Ziarat"
+  },
+  {
+    "Name": "Zira Nawan",
+    "Area_Type": "Village",
+    "District_City": "Toba Tek Singh"
+  }
+]
